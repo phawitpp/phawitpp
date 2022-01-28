@@ -1,6 +1,14 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=300&section=header&text=WELCOME%20TO%20MY%20PROFILE%20😄&fontSize=36&animation=scaleIn&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=300&section=header&text=WELCOME%20TO%20MY%20PROFILE%20&fontSize=36&animation=scaleIn&fontColor=FFFFFF)
 
+
+### Goals in this year ⚡  
+☑️ Sleep  
+🔘 Learning advanced web application  
+🔘 Learn new programming language  
+🔘 Looking for networking  
+🔘 More confident  
+and many more.
 <!--
 **phawitpp/phawitpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
