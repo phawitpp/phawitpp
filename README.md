@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Phawit%20Monchaising&fontSize=45&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=&color=0:EEFF00,100:a82da8&height=300&section=header&text=Phawit%20Monchaising&fontSize=45&animation=scaleIn)
 
 ### Welcome to my profile 👋👋
 
