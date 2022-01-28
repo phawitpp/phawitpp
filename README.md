@@ -1,7 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=300&section=header&text=Phawit%20Monchaising&fontSize=45&animation=scaleIn&fontColor=FFFFFF)
-
-### Welcome to my profile 👋👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:43cea2,100:185a9d&height=300&section=header&text=Welcome%20to%20my%20profile%20😄&fontSize=36&animation=scaleIn&fontColor=FFFFFF)
 
 <!--
 **phawitpp/phawitpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
