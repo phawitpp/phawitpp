@@ -5,6 +5,21 @@
 
 
 
+<a href="https://github.com/phawitpp/phawitpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=phawitpp&show_icons=true&line_height=27&count_private=true&&theme=swift" alt="Phawit's GitHub Stats" />
+</a>
+<a href="https://github.com/phawitpp/phawitpp">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phawitpp&hide=java,html,tex&&theme=swift&langs_count=3" />
+</a>
+<a href="https://github.com/phawitpp/HelloErmine-G7">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phawitpp&repo=HelloErmine-G7&theme=swift" />
+</a>
+
+
+<a href="https://github.com/phawitpp/Thailand-Covid-19-cases-with-ReactJS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phawitpp&repo=Thailand-Covid-19-cases-with-ReactJS&theme=swift" />
+</a>    
+
 ### Goals in this year ⚡  
 ☑️ Sleep  
 🔘 Learning advanced web application  
@@ -13,10 +28,10 @@
 🔘 More confident  
 and many more.
 
-[![Phawit's GitHub stats](https://github-readme-stats.vercel.app/api?username=phawitpp&hide_border=true&show_icons=true&hide=star,prs&hide_border&theme=graywhite&count_private&card_width=21)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phawitpp&hide_border&theme=graywhite&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+<!-- 
+
+
 **phawitpp/phawitpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
