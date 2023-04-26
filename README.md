@@ -11,14 +11,7 @@
 <a href="https://github.com/phawitpp/phawitpp">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phawitpp&hide=java,html,tex&&theme=swift&langs_count=3" />
 </a>
-<a href="https://github.com/phawitpp/HelloErmine-G7">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phawitpp&repo=HelloErmine-G7&theme=swift" />
-</a>
 
-
-<a href="https://github.com/phawitpp/Thailand-Covid-19-cases-with-ReactJS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phawitpp&repo=Thailand-Covid-19-cases-with-ReactJS&theme=swift" />
-</a>    
 
 ### Goals in this year ⚡  
 ☑️ Sleep  
